@@ -2,6 +2,9 @@
 
 This C++ program demonstrates file compression using the Huffman coding algorithm. Huffman coding is a widely used technique for data compression that assigns variable-length codes to input characters, with shorter codes for more frequent characters, resulting in efficient data compression.
 
+## Report Link
+https://drive.google.com/file/d/11ciMks1hyihAcPcHPNlwjmgUIRFcJvBh/view?usp=sharing
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Program Overview](#program-overview)
